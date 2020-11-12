@@ -2,6 +2,8 @@
 
 These are my personal naming conventions for different code entities and programming languages. In the absence of more specific naming conventions per project/team, I'll use these ones.
 
+---
+
 ## General
 
 ### Variables & Constants
@@ -20,6 +22,8 @@ These are my personal naming conventions for different code entities and program
 | spies | `[code being spied]Spy`   | fetchSpy  |
 | mocks | `[code being mocked]Mock` | fetchMock |
 
+---
+
 ## JavaScript
 
 ### Filenames
@@ -29,5 +33,3 @@ These are my personal naming conventions for different code entities and program
 | React Component | `[ComponentName].(jsx\|tsx)`      | Avatar.jsx, NavMenu.tsx |
 | Selectors       | `[modulename].selectors.(js\|ts)` | cart.selectors.js       |
 | Redux Reducer   | `[moduleName].reducer.(js\|ts)`   | cart.reducer.js         |
-
-## TODO
